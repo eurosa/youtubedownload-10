@@ -1,0 +1,2 @@
+The fix is documented in the next post up but effectively, navigating to /src/Provider/Youtube and editing the file provider.php, 
+by locating $video_info_url and changing http to https should solve the problem ... it did for me.
